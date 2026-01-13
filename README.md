@@ -89,4 +89,4 @@ These KPIs offer a quick snapshot of overall business performance.
 
 The ANAND Store Sales Dashboard delivers actionable insights into sales, profit, customers, and product performance, enabling smarter business decisions through intuitive and interactive visualizations.
 
-Screenshots / Demos Example : [ Dashboard Preview]:- (
+Screenshots / Demos Example : [ Dashboard Preview]:- (https://github.com/borawakeprem/ANAND-STORE-SALES-Dashboard/blob/main/Screenshot%20%20ANAND%20STORE%20SALES%20Dashboard.png)
